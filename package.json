@@ -1,0 +1,23 @@
+{
+  "name": "opt-assignment-intro-to-bootstrap-j33",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almgru/opt-assignment-intro-to-bootstrap-j33.git"
+  },
+  "author": "Daniel Alm Grundström <daniel.alm.grundstrom@protonmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/almgru/opt-assignment-intro-to-bootstrap-j33/issues"
+  },
+  "homepage": "https://github.com/almgru/opt-assignment-intro-to-bootstrap-j33#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "prettier": "^2.2.1"
+  }
+}
